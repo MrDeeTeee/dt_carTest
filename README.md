@@ -1,7 +1,7 @@
 # dt_carTest
 A light FiveM script for vehicle development - Forked from Codesign's cd-cartest and merged with James Roll's gta_vehicledebug
 
-Keybinds (Editable in Keybinds > FiveM)
+# Keybinds (Editable in Keybinds > FiveM)
 F3 - Day
 F4 - Night
 F5 - Legion
