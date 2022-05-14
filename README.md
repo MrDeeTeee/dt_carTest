@@ -10,4 +10,4 @@ A light FiveM script for vehicle development - Forked from Codesign's cd-cartest
 - Left Alt - Open Handling Menu
 
 # Dependencies:
-- Vsync : https://github.com/DevTestingPizza/vSync
+- vSync : https://github.com/DevTestingPizza/vSync
